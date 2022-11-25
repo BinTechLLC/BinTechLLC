@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BinTechLLC
+- 👀 I’m interested in building random projects, amateur (HAM) radio, and doing random electronics work.
+- 🌱 I’m currently learning C++, Python, Java.
+- 📫 How to reach me koltin@bintech-llc.com
